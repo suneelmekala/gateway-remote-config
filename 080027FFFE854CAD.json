@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "080027FFFE854CAD",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 12.978628,
+    "ref_longitude": 77.709436,
+    "ref_altitude": 40,
+    "contact_email": "suneel.mekala@philips.com",
+    "description": "Test GW software"
+  }
+}
